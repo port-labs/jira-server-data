@@ -1,5 +1,5 @@
 anyio==4.1.0 ; python_version >= "3.11" and python_version < "4.0"
-certifi==2023.11.17 ; python_version >= "3.11" and python_version < "4.0"
+certifi==2026.10.18 ; python_version >= "3.11" and python_version < "4.0"
 charset-normalizer==3.3.2 ; python_version >= "3.11" and python_version < "4.0"
 colorama==0.4.6 ; python_version >= "3.11" and python_version < "4.0" and sys_platform == "win32"
 h11==0.14.0 ; python_version >= "3.11" and python_version < "4.0"
